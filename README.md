@@ -1,4 +1,10 @@
-Hi 👋, I am a PhD student in AI in healthcare at the Hasso Plattner Institute. I am a Computer Scientist and Data Scientist by education. I specialize in using predictive modelling methods to derive insights from healthcare data, thereby prolonging the life of patients. I am interested in applying the most recent ML methods to improve healthcare.
+Hi 👋, I am a PhD candidate in AI in healthcare at the Hasso Plattner Institute. I am a Computer Scientist and Data Scientist by education. I specialize in using predictive modelling methods to derive insights from healthcare data, thereby prolonging the life of patients. I am interested in applying the most recent ML methods to improve healthcare.
+
+🧠 AI in Health Researcher
+🧑‍🎓 Ph.D. Candidate
+🏛️ Hasso Plattner Institute
+🏠 Berlin, Germany
+
 <!--
 **rvandewater/rvandewater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
