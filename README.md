@@ -1,3 +1,8 @@
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-van-de-water/)
+[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.nl/citations?user=Tp9Ry9gAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Robin-Van-De-Water)
+[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@robinvdwater)
+
 Hi 👋, I am a PhD candidate in AI in healthcare at the Hasso Plattner Institute. I am a Computer Scientist and Data Scientist by education. I specialize in using predictive modelling methods to derive insights from healthcare data, thereby prolonging the life of patients. I am interested in applying the most recent ml methods to improve healthcare.
 
 - 🧠 AI in Health Researcher
