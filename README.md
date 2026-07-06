@@ -7,7 +7,7 @@ Hi 👋, I am a PhD candidate in AI in healthcare at the Hasso Plattner Institut
 
 TLDR:
 - 🧠 AI in Health Researcher
-- 🧑‍🎓 Ph.D. Candidate
+- 🧑‍🎓 Ph.D. in Machine Learning
 - 🏛️ Hasso Plattner Institute, Charité University Hospital, Mount Sinai (NYC)
 - 🏠 Berlin, Germany
 
