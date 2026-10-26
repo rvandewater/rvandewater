@@ -6,10 +6,11 @@
 Hi 👋, I am a PhD candidate in AI in healthcare at the Hasso Plattner Institute. I am a Computer Scientist and Data Scientist by education. I specialize in using predictive modeling methods to derive insights from healthcare data, prolonging patients' (quality of) lives. I am interested in applying the latest ML methods to improve healthcare.
 
 TLDR:
+- 🧳 Postdoctoral Research Scientist at Columbia University
 - 🧠 AI in Health Researcher
 - 🧑‍🎓 Ph.D. in Machine Learning
-- 🏛️ Hasso Plattner Institute, Charité University Hospital, Mount Sinai (NYC)
-- 🏠 Berlin, Germany
+- 🏛️ Columbia University, Hasso Plattner Institute, Charité University Hospital, Mount Sinai (NYC)
+- 🏠 New York City, USA
 
 <!--
 **rvandewater/rvandewater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
