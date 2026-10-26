@@ -3,7 +3,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Robin-Van-De-Water)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@robinvdwater)
 
-Hi 👋, I am a PhD candidate in AI in healthcare at the Hasso Plattner Institute. I am a Computer Scientist and Data Scientist by education. I specialize in using predictive modeling methods to derive insights from healthcare data, prolonging patients' (quality of) lives. I am interested in applying the latest ML methods to improve healthcare.
+Hi 👋, I am a Postdoctoral Research Scientist in AI for healthcare. I am a Computer Scientist and Data Scientist by education. I specialize in using predictive modeling methods to derive insights from healthcare data, prolonging patients' (quality of) lives. I am interested in applying the latest ML methods to improve healthcare.
 
 TLDR:
 - 🧳 Postdoctoral Research Scientist at Columbia University
